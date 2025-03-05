@@ -1,4 +1,12 @@
+<br clear="both">
+
 <h3 align="left">Hi 👋! My name is Akhil and <br>I'm a Web Dev from Bengaluru, India.</h3>
+
+###
+
+<div align="center">
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGc4bHN2eGVrYXR6M2FvcGUzYW5tNnNpYm8yaHA1MnBsdzlya3c3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkMri4yiJ3Mdy/giphy.gif"  />
+</div>
 
 ###
 
@@ -6,10 +14,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Akhil-KL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akhil-KL&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2pqdDd5ZzhpOWp4YngzNzl6NDVlYWpveWwwNTQ4MnV1bHJqNzE3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xuXzcHMkuwvf2/giphy.gif"  />
 
 ###
 
@@ -34,6 +38,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFheTdoNTB6cGZobXVmOG41Y24zaHg1d2ZhNTJkZTQxNG1ibHRndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NVBR6cLvUjV9C/giphy.gif"  />
 
 ###
 
