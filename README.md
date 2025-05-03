@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys turning idea
 
 ## Let's Connect
 
-- [**🔗 Portfolio 🔗:**] (https://keval-akhil.web.app)
+- [**🔗 Portfolio 🔗:**](https://keval-akhil.web.app)
 
 Thanks for visiting my GitHub!
 
