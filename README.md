@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys turning idea
 - Start my own tech based company 
 
 ## Let's Connect
-Markdown: [Click the Link](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
+![gif Link](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
 
 - [**🔗 Portfolio**](https://keval-akhil.web.app)
 
