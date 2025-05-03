@@ -1,5 +1,8 @@
 # Hi there, I'm Akhil!
 
+![Profile Banner](https://github.com/hardik-thapar/hardik-thapar/blob/main/Hardik%20thapar-2.jpg) <!-- Replace with your own banner image -->
+
+
 Welcome to my GitHub profile! I'm a passionate developer who enjoys turning ideas into real-world applications. I love building tools that help people, experimenting with emerging technologies, and always learning something new.
 (do people even read this lmao)
 
@@ -23,3 +26,4 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys turning idea
 - **🔗 Portfolio 🔗:** [https://keval-akhil.web.app]
 
 Thanks for visiting my GitHub!
+
