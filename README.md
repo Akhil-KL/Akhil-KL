@@ -26,6 +26,9 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys turning idea
 
 ### - [**🔗 Portfolio**](https://keval-akhil.web.app)
 
-Thanks for visiting my GitHub!
+
+
+
+#### **BTW**
 
 ![Thanks for visiting](https://github.com/hardik-thapar/hardik-thapar/blob/main/Black%20and%20White%20Simple%20Typographic%20Phantom%20Halloween%20Logo.jpg)
