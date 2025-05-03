@@ -20,6 +20,6 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys turning idea
 
 ## Let's Connect
 
-- **🔗 Portfolio 🔗:** [www.kevalakhil.web.com]
+- **🔗 Portfolio 🔗:** [https://keval-akhil.web.app/]
 
 Thanks for visiting my GitHub!
